@@ -44,7 +44,8 @@
     "currentPath",
     "currentRouteName",
     "mockjax",
-    "FactoryGuy"
+    "FactoryGuy",
+    "FactoryGuyTestMixin"
   ],
   "node": false,
   "browser": true,

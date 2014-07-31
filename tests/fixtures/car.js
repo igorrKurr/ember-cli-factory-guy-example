@@ -1,4 +1,4 @@
-FactoryGuy.define('user', {
+FactoryGuy.define('car', {
   sequences: {
     carName: function(num) {
       return 'Car' + num;
