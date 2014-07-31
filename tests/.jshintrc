@@ -37,20 +37,21 @@
     "findWithAssert",
     "wait",
     "DS",
-    "keyEvent",
     "isolatedContainer",
     "startApp",
     "andThen",
     "currentURL",
     "currentPath",
-    "currentRouteName"
+    "currentRouteName",
+    "mockjax",
+    "FactoryGuy"
   ],
   "node": false,
-  "browser": false,
+  "browser": true,
   "boss": true,
   "curly": false,
   "debug": false,
-  "devel": false,
+  "devel": true,
   "eqeqeq": true,
   "evil": true,
   "forin": false,
@@ -69,5 +70,6 @@
   "strict": false,
   "white": false,
   "eqnull": true,
-  "esnext": true
+  "esnext": true,
+  "expr":true
 }
