@@ -1,6 +1,6 @@
-# Ember-cli-factory-guy-example
+# Ember-Cli FactoryGuy Example
 
-This README outlines the details of collaborating on this Ember application.
+This is my example of testing exmple [ember-cli](https://github.com/stefanpenner/ember-cli) app with [ember-data-factory-guy](https://github.com/danielspaniel/ember-data-factory-guy)
 
 ## Installation
 
@@ -8,18 +8,8 @@ This README outlines the details of collaborating on this Ember application.
 * `npm install`
 * `bower install`
 
-## Running
-
-* `ember server`
-* Visit your app at http://localhost:4200.
-
-## Running Tests
+## Try FactoryGuy with Ember-Cli
 
 * `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://iamstef.net/ember-cli/](http://iamstef.net/ember-cli/).
+or
+* visit `localhost:4200/tests`
